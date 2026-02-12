@@ -44,46 +44,5 @@ Focused on:
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🔗 Blockchain & Web3
-- Solidity
-- EVM
-- ERC-20 / ERC-721 / ERC-1155
-- Chainlink
-- Ethereum Attestation Service (EAS)
-- IPFS
-
-### 🖥 Backend
-- TypeScript
-- NestJS
-- Express
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
-- REST APIs
-
-### 🔐 Security
-- Smart Contract Auditing
-- Reentrancy Mitigation
-- Access Control Hardening
-- Oracle Manipulation Prevention
-- Fuzzing (Foundry / Echidna)
-- Gas Profiling
-- Static & Dynamic Analysis
-
-### 🛠 Tools & Infrastructure
-- Foundry
-- Hardhat
-- Docker
-- Supabase
-- AWS
-- DigitalOcean
-- Git
-
----
-
-
 ### 
-[![Thaddeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thaddeus19)](https://github.com/Thaddeus19/github-readme-stats)
+[![Thaddeus's GitHub stats](https://github-readme-stats-gamma-gray-64.vercel.app/api?username=Thaddeus19&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Thaddeus19/github-readme-stats)
