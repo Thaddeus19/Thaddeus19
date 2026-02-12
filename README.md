@@ -1,7 +1,6 @@
 ### 🚀 Mariano Salazar Alvarez  
 **Blockchain Developer | Backend Engineer | Smart Contract Auditor**
   
-📧 mtsa95@gmail.com  
 ---
 
 ## 🌐 Socials:
